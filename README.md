@@ -38,3 +38,8 @@ Veröffentlichte GitHub Pages Webseite:
 
 https://sggtgi.github.io/
 
+<br>
+
+Lösung mit Markern:
+
+[new codepen]: #
