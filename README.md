@@ -42,7 +42,5 @@ https://sggtgi.github.io/
 
 Webentwicklung Übersicht (Unterschiede HTML, CSS, JavaScript):
 
-<br>
-
 https://drive.google.com/file/d/1LRp6b1ZvLDLVuA8FdXU7IibrP2Qj7Xai/view?usp=sharing 
 
